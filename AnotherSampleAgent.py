@@ -7,9 +7,9 @@ class SampleAgent(Player):
     #def __init__(self): # default constructor
         
     def studentID(self):
-        return "007"
+        return "101304083"
     def agentName(self):
-        return "Nice Player"
+        return "Bobby"
     def play(self, myHistory, oppHistory1, oppHistory2):
-        return 0;
+        return 0
 		

@@ -7,9 +7,9 @@ class JBond(Player):
     #def __init__(self): # default constructor
         
     def studentID(self):
-        return "007"
+        return "101294287"
     def agentName(self):
-        return "Mean Player"
+        return "Ricky"
     def play(self, myHistory, oppHistory1, oppHistory2):
-        return 1;
+        return 1
 		
